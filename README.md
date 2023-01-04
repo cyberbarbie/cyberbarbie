@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @cyberbarbie
 - 👀 I’m interested in web app security and web development
-- 🌱 I’m currently studying for the Security+ and 
-- 💞️ I write blog posts on coding and security 
+- 🌱 I’m currently studying for the Security+
+- 😈 I'm publishing all of notes on [networking basics for hackers](https://github.com/cyberbarbie/Networking-Fundamentals-For-Hackers)
+- 💞️ I write blog posts on coding 
 - 📫 How to reach me ...
 [taeluralexis.com](https://www.taeluralexis.com)
 ![Picture of cyber barbie](imgs/IMG_8658_2.jpg)
