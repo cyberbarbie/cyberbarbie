@@ -1,6 +1,6 @@
 # Hi I'm Tae'lur Alexis aka Cyberbarbie
 
-- 👋 Hi, I’m @cyberbarbie
+- 👋🏽 Hi, I’m @cyberbarbie
 - 👀 I’m interested in web app security and web development
 - 🌱 I’m currently studying for the Security+
 - 😈 I'm publishing all of notes on [networking basics for hackers](https://github.com/cyberbarbie/Networking-Fundamentals-For-Hackers)
