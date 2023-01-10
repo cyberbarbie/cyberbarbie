@@ -3,7 +3,6 @@
 - 👋🏽 Hi, I’m @cyberbarbie
 - 👀 I’m interested in web app security and web development
 - 🌱 I’m currently studying for the Security+
-- 😈 I'm publishing all of notes on [networking basics for hackers](https://github.com/cyberbarbie/Networking-Fundamentals-For-Hackers)
 - 💞️ I write blog posts on coding 
 - 🗣 I give advice for those who want to break into tech to my audience of 50k+! 
 - 📫 How to reach me ...
